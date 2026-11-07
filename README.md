@@ -66,4 +66,4 @@ Furkan Küçük
 
 `Data Analytics Portfolio Project`
 
-[Github : github.com/Walroq](https://github.com/Walroq)
+Github = https://github.com/furkankucuk61
